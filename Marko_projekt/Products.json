@@ -1,0 +1,122 @@
+[
+    {
+       "product_name":"Bush Somerset Collection Bookcase",
+       "quantity_per_unit":1,
+       "unit_price":129.99,
+       "units_in_stock":6,
+       "Categories":{
+          "category_name":"Furniture",
+          "description":"",
+          "picture":"",
+          "SubCategories":[
+             {
+                "subCategory_name":"Bookcases",
+                "subCategory_description":""
+             }
+          ]
+       },
+       "Suppliers":[
+          {
+             "company_name":"Furniture Corporation",
+             "Contacts":{
+                "phone":"0018184875344",
+                "home_page":"",
+                "fax":"0018485318474"
+             }
+          }
+       ],
+       "Reviews":[
+          {
+             "rating":4.6,
+             "review_text":"It looks good",
+             "review_date":"2017-11-18"
+          }
+       ],
+       "Stocks":{
+          "quantity_available":6,
+          "reorder_level":6,
+          "reorder_quantity":6,
+          "warehouse_location":"123 Address Street Los Angeles California"
+       }
+    },
+    {
+       "product_name":"KeyTronic KT800P2 - Keyboard - Black",
+       "quantity_per_unit":1,
+       "unit_price":34.99,
+       "units_in_stock":7,
+       "Categories":{
+          "category_name":"Technology",
+          "description":"",
+          "picture":"",
+          "SubCategories":[
+             {
+                "subCategory_name":"Accessories",
+                "subCategory_description":""
+             }
+          ]
+       },
+       "Suppliers":[
+          {
+             "company_name":"Electronics Corporation",
+             "Contacts":{
+                "phone":"0015224387511",
+                "home_page":"",
+                "fax":"0015275243811"
+             }
+          }
+       ],
+       "Reviews":[
+          {
+             "rating":4.3,
+             "review_text":"Works fine",
+             "review_date":"2018-06-02"
+          }
+       ],
+       "Stocks":{
+          "quantity_available":7,
+          "reorder_level":10,
+          "reorder_quantity":10,
+          "warehouse_location":"123 Address Street Los Angeles California"
+       }
+    },
+    {
+       "product_name":"Staple-based wall hangings",
+       "quantity_per_unit":3,
+       "unit_price":1.99,
+       "units_in_stock":33,
+       "Categories":{
+          "category_name":"Furniture",
+          "description":"",
+          "picture":"",
+          "SubCategories":[
+             {
+                "subCategory_name":"Furnishing",
+                "subCategory_description":""
+             }
+          ]
+       },
+       "Suppliers":[
+          {
+            "company_name":"Furniture Corporation",
+            "Contacts":{
+               "phone":"0018184875344",
+               "home_page":"",
+               "fax":"0018485318474"
+             }
+          }
+       ],
+       "Reviews":[
+          {
+             "rating":4.2,
+             "review_text":"Cheap and looks nice",
+             "review_date":"2018-12-21"
+          }
+       ],
+       "Stocks":{
+          "quantity_available":10,
+          "reorder_level":10,
+          "reorder_quantity":10,
+          "warehouse_location":"123 Address Street Los Angeles California"
+       }
+    }
+ ]

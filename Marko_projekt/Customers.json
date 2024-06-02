@@ -1,0 +1,59 @@
+[
+    {
+       "first_name":"Claire",
+       "last_name":"Gute",
+       "age":23,
+       "gender":"female",
+       "Contacts":{
+          "email":"claireGute23@gmail.com",
+          "phone":"0015025487344",
+          "fax":"001502523443"
+       },
+       "Address":{
+          "street":"La Laguna St 30",
+          "postal_code":"42420",
+          "city":"Henderson",
+          "region":"South",
+          "state":"Kentucky",
+          "country":"United States"
+       }
+    },
+    {
+       "first_name":"Brosina",
+       "last_name":"Hoffman",
+       "age":42,
+       "gender":"female",
+       "Contacts":{
+          "email":"BrosHoffman42@gmail.com",
+          "phone":"0018184448753",
+          "fax":"0018182254874"
+       },
+       "Address":{
+          "street":"11010 San Fernando Rd",
+          "postal_code":"90032",
+          "city":"Los Angeles",
+          "region":"West",
+          "state":"California",
+          "country":"United States"
+       }
+    },
+    {
+       "first_name":"Rick",
+       "last_name":"Bensley",
+       "age":34,
+       "gender":"male",
+       "Contacts":{
+          "email":"RiiiickBen3@gmail.com",
+          "phone":"0018724487354",
+          "fax":"0018724387423"
+       },
+       "Address":{
+          "street":"4212 W Harrison St",
+          "postal_code":"60610",
+          "city":"Chicago",
+          "region":"Central",
+          "state":"Illinois",
+          "country":"United States"
+       }
+    }
+ ]

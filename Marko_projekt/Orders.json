@@ -1,0 +1,52 @@
+[
+    {
+       "Date":{
+          "order_date":"2017-11-08",
+          "shipping_date":"2017-11-11"
+       },
+       "segments":"Consumer",
+       "shipMode":"Second Class",
+       "OrderDetails":{
+          "quantity":2,
+          "total":261.96,
+          "discount":0.00,
+          "profit":123.23,
+          "id_products":1
+       },
+       "id_Customers":1
+    },
+    {
+       "Date":{
+          "order_date":"2018-05-18",
+          "shipping_date":"2018-05-22"
+       },
+       "segments":"Consumer",
+       "shipMode":"Standard Class",
+       "OrderDetails":{
+          "quantity":2,
+          "total":36.05,
+          "discount":6.00,
+          "profit":15.35,
+          "id_products":2
+       },
+       "id_Customers":2
+    },
+    {
+       "Date":{
+          "order_date":"2018-12-21",
+          "shipping_date":"2018-12-21"
+       },
+       "segments":"Home Office",
+       "shipMode":"Same Day",
+       "OrderDetails":{
+          "quantity":2,
+          "total":15.92,
+          "discount":5.00,
+          "profit":4.45,
+          "id_products":3
+       },
+       "id_Customers":3
+    }
+ ]
+
+
