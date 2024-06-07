@@ -6,12 +6,12 @@
        "units_in_stock":6,
        "Categories":{
           "category_name":"Furniture",
-          "description":"",
-          "picture":"",
+          "description":"Furniture including chairs, tables, and sofas",
+          "picture":"http://example.com/furniture1.jpg",
           "SubCategories":[
              {
                 "subCategory_name":"Bookcases",
-                "subCategory_description":""
+                "subCategory_description":"Some types of bookcases"
              }
           ]
        },
@@ -20,7 +20,7 @@
              "company_name":"Furniture Corporation",
              "Contacts":{
                 "phone":"0018184875344",
-                "home_page":"",
+                "home_page":"www.example.com",
                 "fax":"0018485318474"
              }
           }
@@ -29,7 +29,8 @@
           {
              "rating":4.6,
              "review_text":"It looks good",
-             "review_date":"2017-11-18"
+             "review_date":"2017-11-18",
+             "id_Customers": "6104a50a0c4a825b61a5c4e"
           }
        ],
        "Stocks":{
@@ -46,11 +47,11 @@
        "units_in_stock":7,
        "Categories":{
           "category_name":"Technology",
-          "description":"",
-          "picture":"",
+          "description":"Electronics and gadgets",
+          "picture":"http://example2.com/technology1.jpg",
           "SubCategories":[
              {
-                "subCategory_name":"Accessories",
+                "subCategory_name":"Accessories for products",
                 "subCategory_description":""
              }
           ]
@@ -60,7 +61,7 @@
              "company_name":"Electronics Corporation",
              "Contacts":{
                 "phone":"0015224387511",
-                "home_page":"",
+                "home_page":"www.example2.com",
                 "fax":"0015275243811"
              }
           }
@@ -69,7 +70,8 @@
           {
              "rating":4.3,
              "review_text":"Works fine",
-             "review_date":"2018-06-02"
+             "review_date":"2018-06-02",
+             "id_Customers": "2532a88a0e4a234a61c5c4a"
           }
        ],
        "Stocks":{
@@ -86,12 +88,12 @@
        "units_in_stock":33,
        "Categories":{
           "category_name":"Furniture",
-          "description":"",
-          "picture":"",
+          "description":"Furniture including chairs, tables, and sofas",
+          "picture":"http://example.com/furniture.jpg",
           "SubCategories":[
              {
                 "subCategory_name":"Furnishing",
-                "subCategory_description":""
+                "subCategory_description":"Items such as curtains, carpets, and rugs"
              }
           ]
        },
@@ -100,7 +102,7 @@
             "company_name":"Furniture Corporation",
             "Contacts":{
                "phone":"0018184875344",
-               "home_page":"",
+               "home_page":"www.example.com",
                "fax":"0018485318474"
              }
           }
@@ -109,7 +111,8 @@
           {
              "rating":4.2,
              "review_text":"Cheap and looks nice",
-             "review_date":"2018-12-21"
+             "review_date":"2018-12-21",
+             "id_Customers": "8304a78a0e4a825b61c5c4d"
           }
        ],
        "Stocks":{

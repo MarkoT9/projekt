@@ -12,10 +12,10 @@
           "quantity":2,
           "discount":0.00,
           "profit":123.23,
-          "id_products":1
+          "id_products":"9876a12a0e4a123b61c5c4c"
           }]
        },
-       "id_Customers":1
+       "id_Customers": "6104a50a0c4a825b61a5c4e"
     },
     {
        "Date":{
@@ -30,10 +30,10 @@
           "quantity":2,
           "discount":6.00,
           "profit":15.35,
-          "id_products":2
+          "id_products":"1234a12a0e4a123a61c5c4a"
           }]
        },
-       "id_Customers":2
+       "id_Customers":"2532a88a0e4a234a61c5c4a"
     },
     {
        "Date":{
@@ -48,10 +48,10 @@
          "quantity":2,
          "discount":5.00,
          "profit":4.45,
-         "id_products":3
+         "id_products":"2875a12a0e4a123a61c5c4b"
          }]
        },
-       "id_Customers":3
+       "id_Customers":"8304a78a0e4a825b61c5c4d"
     }
  ]
 
