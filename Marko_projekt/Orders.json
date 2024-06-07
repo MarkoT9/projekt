@@ -7,11 +7,13 @@
        "segments":"Consumer",
        "shipMode":"Second Class",
        "OrderDetails":{
-          "quantity":2,
           "total":261.96,
+          "Items":[{
+          "quantity":2,
           "discount":0.00,
           "profit":123.23,
           "id_products":1
+          }]
        },
        "id_Customers":1
     },
@@ -23,11 +25,13 @@
        "segments":"Consumer",
        "shipMode":"Standard Class",
        "OrderDetails":{
-          "quantity":2,
           "total":36.05,
+          "Items":[{
+          "quantity":2,
           "discount":6.00,
           "profit":15.35,
           "id_products":2
+          }]
        },
        "id_Customers":2
     },
@@ -39,11 +43,13 @@
        "segments":"Home Office",
        "shipMode":"Same Day",
        "OrderDetails":{
-          "quantity":2,
-          "total":15.92,
-          "discount":5.00,
-          "profit":4.45,
-          "id_products":3
+         "total":15.19,
+         "Items":[{
+         "quantity":2,
+         "discount":5.00,
+         "profit":4.45,
+         "id_products":3
+         }]
        },
        "id_Customers":3
     }
