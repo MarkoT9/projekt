@@ -1128,7 +1128,7 @@
 				{
 					"id": "703e3661-6235-41aa-896a-da975108d571",
 					"name": "id_customers",
-					"datatype": "int",
+					"datatype": "objectId",
 					"param": "",
 					"pk": false,
 					"nn": false,
@@ -1575,7 +1575,7 @@
 		"def_collation": "",
 		"def_others": "",
 		"connectionVersion": "",
-		"lastSaved": 1717357149663
+		"lastSaved": 1717781821866
 	},
 	"otherObjects": {},
 	"diagrams": {
