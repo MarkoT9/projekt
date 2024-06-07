@@ -4,28 +4,28 @@
        "quantity_per_unit":1,
        "unit_price":129.99,
        "units_in_stock":6,
-       "Categories":{
+       "categories":{
           "category_name":"Furniture",
           "description":"Furniture including chairs, tables, and sofas",
           "picture":"http://example.com/furniture1.jpg",
-          "SubCategories":[
+          "subCategories":[
              {
                 "subCategory_name":"Bookcases",
                 "subCategory_description":"Some types of bookcases"
              }
           ]
        },
-       "Suppliers":[
+       "suppliers":[
           {
              "company_name":"Furniture Corporation",
-             "Contacts":{
+             "contacts":{
                 "phone":"0018184875344",
                 "home_page":"www.example.com",
                 "fax":"0018485318474"
              }
           }
        ],
-       "Reviews":[
+       "reviews":[
           {
              "rating":4.6,
              "review_text":"It looks good",
@@ -33,7 +33,7 @@
              "id_Customers": "6104a50a0c4a825b61a5c4e"
           }
        ],
-       "Stocks":{
+       "stocks":{
           "quantity_available":6,
           "reorder_level":6,
           "reorder_quantity":6,
@@ -45,28 +45,28 @@
        "quantity_per_unit":1,
        "unit_price":34.99,
        "units_in_stock":7,
-       "Categories":{
+       "categories":{
           "category_name":"Technology",
           "description":"Electronics and gadgets",
           "picture":"http://example2.com/technology1.jpg",
-          "SubCategories":[
+          "subCategories":[
              {
                 "subCategory_name":"Accessories for products",
                 "subCategory_description":""
              }
           ]
        },
-       "Suppliers":[
+       "suppliers":[
           {
              "company_name":"Electronics Corporation",
-             "Contacts":{
+             "contacts":{
                 "phone":"0015224387511",
                 "home_page":"www.example2.com",
                 "fax":"0015275243811"
              }
           }
        ],
-       "Reviews":[
+       "reviews":[
           {
              "rating":4.3,
              "review_text":"Works fine",
@@ -74,7 +74,7 @@
              "id_Customers": "2532a88a0e4a234a61c5c4a"
           }
        ],
-       "Stocks":{
+       "stocks":{
           "quantity_available":7,
           "reorder_level":10,
           "reorder_quantity":10,
@@ -86,28 +86,28 @@
        "quantity_per_unit":3,
        "unit_price":1.99,
        "units_in_stock":33,
-       "Categories":{
+       "categories":{
           "category_name":"Furniture",
           "description":"Furniture including chairs, tables, and sofas",
           "picture":"http://example.com/furniture.jpg",
-          "SubCategories":[
+          "subCategories":[
              {
                 "subCategory_name":"Furnishing",
                 "subCategory_description":"Items such as curtains, carpets, and rugs"
              }
           ]
        },
-       "Suppliers":[
+       "suppliers":[
           {
             "company_name":"Furniture Corporation",
-            "Contacts":{
+            "contacts":{
                "phone":"0018184875344",
                "home_page":"www.example.com",
                "fax":"0018485318474"
              }
           }
        ],
-       "Reviews":[
+       "reviews":[
           {
              "rating":4.2,
              "review_text":"Cheap and looks nice",
@@ -115,7 +115,7 @@
              "id_Customers": "8304a78a0e4a825b61c5c4d"
           }
        ],
-       "Stocks":{
+       "stocks":{
           "quantity_available":10,
           "reorder_level":10,
           "reorder_quantity":10,

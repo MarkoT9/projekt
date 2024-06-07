@@ -4,12 +4,12 @@
        "last_name":"Gute",
        "age":23,
        "gender":"female",
-       "Contacts":{
+       "contacts":{
           "email":"claireGute23@gmail.com",
           "phone":"0015025487344",
           "fax":"001502523443"
        },
-       "Address":{
+       "address":{
           "street":"La Laguna St 30",
           "postal_code":"42420",
           "city":"Henderson",
@@ -23,12 +23,12 @@
        "last_name":"Hoffman",
        "age":42,
        "gender":"female",
-       "Contacts":{
+       "contacts":{
           "email":"BrosHoffman42@gmail.com",
           "phone":"0018184448753",
           "fax":"0018182254874"
        },
-       "Address":{
+       "address":{
           "street":"11010 San Fernando Rd",
           "postal_code":"90032",
           "city":"Los Angeles",
@@ -42,12 +42,12 @@
        "last_name":"Bensley",
        "age":34,
        "gender":"male",
-       "Contacts":{
+       "contacts":{
           "email":"RiiiickBen3@gmail.com",
           "phone":"0018724487354",
           "fax":"0018724387423"
        },
-       "Address":{
+       "address":{
           "street":"4212 W Harrison St",
           "postal_code":"60610",
           "city":"Chicago",
