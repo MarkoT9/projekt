@@ -9,14 +9,16 @@
           "phone":"0015025487344",
           "fax":"001502523443"
        },
-       "address":{
+       "address":[
+         {
           "street":"La Laguna St 30",
           "postal_code":"42420",
           "city":"Henderson",
           "region":"South",
           "state":"Kentucky",
           "country":"United States"
-       }
+        }
+      ]
     },
     {
        "first_name":"Brosina",
@@ -28,14 +30,16 @@
           "phone":"0018184448753",
           "fax":"0018182254874"
        },
-       "address":{
+       "address":[
+         {
           "street":"11010 San Fernando Rd",
           "postal_code":"90032",
           "city":"Los Angeles",
           "region":"West",
           "state":"California",
           "country":"United States"
-       }
+        }
+      ]
     },
     {
        "first_name":"Rick",
@@ -47,13 +51,15 @@
           "phone":"0018724487354",
           "fax":"0018724387423"
        },
-       "address":{
+       "address":[
+         {
           "street":"4212 W Harrison St",
           "postal_code":"60610",
           "city":"Chicago",
           "region":"Central",
           "state":"Illinois",
           "country":"United States"
-       }
+        }
+      ]
     }
  ]

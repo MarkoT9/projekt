@@ -12,10 +12,10 @@
           "quantity":2,
           "discount":0.00,
           "profit":123.23,
-          "id_products":"9876a12a0e4a123b61c5c4c"
+          "id_products":ObjectID('9876a12a0e4a123b61c5c4c')
           }]
        },
-       "id_Customers": "6104a50a0c4a825b61a5c4e"
+       "id_Customers": ObjectID('6104a50a0c4a825b61a5c4e')
     },
     {
        "date":{
@@ -30,10 +30,10 @@
           "quantity":2,
           "discount":6.00,
           "profit":15.35,
-          "id_products":"1234a12a0e4a123a61c5c4a"
+          "id_products":ObjectID('1234a12a0e4a123a61c5c4a')
           }]
        },
-       "id_Customers":"2532a88a0e4a234a61c5c4a"
+       "id_Customers":ObjectID('2532a88a0e4a234a61c5c4a')
     },
     {
        "date":{
@@ -48,10 +48,10 @@
          "quantity":2,
          "discount":5.00,
          "profit":4.45,
-         "id_products":"2875a12a0e4a123a61c5c4b"
+         "id_products":ObjectID('2875a12a0e4a123a61c5c4b')
          }]
        },
-       "id_Customers":"8304a78a0e4a825b61c5c4d"
+       "id_Customers":ObjectID('8304a78a0e4a825b61c5c4d')
     }
  ]
 

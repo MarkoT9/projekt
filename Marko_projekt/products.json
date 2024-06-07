@@ -30,15 +30,17 @@
              "rating":4.6,
              "review_text":"It looks good",
              "review_date":"2017-11-18",
-             "id_Customers": "6104a50a0c4a825b61a5c4e"
+             "id_Customers": ObjectID('6104a50a0c4a825b61a5c4e')
           }
        ],
-       "stocks":{
+       "stocks":[
+         {
           "quantity_available":6,
           "reorder_level":6,
           "reorder_quantity":6,
           "warehouse_location":"123 Address Street Los Angeles California"
-       }
+        }
+      ]
     },
     {
        "product_name":"KeyTronic KT800P2 - Keyboard - Black",
@@ -71,15 +73,17 @@
              "rating":4.3,
              "review_text":"Works fine",
              "review_date":"2018-06-02",
-             "id_Customers": "2532a88a0e4a234a61c5c4a"
+             "id_Customers": ObjectID('2532a88a0e4a234a61c5c4a')
           }
        ],
-       "stocks":{
+       "stocks":[
+         {
           "quantity_available":7,
           "reorder_level":10,
           "reorder_quantity":10,
           "warehouse_location":"123 Address Street Los Angeles California"
-       }
+        }
+      ]
     },
     {
        "product_name":"Staple-based wall hangings",
@@ -112,14 +116,16 @@
              "rating":4.2,
              "review_text":"Cheap and looks nice",
              "review_date":"2018-12-21",
-             "id_Customers": "8304a78a0e4a825b61c5c4d"
+             "id_Customers": ObjectID('8304a78a0e4a825b61c5c4d')
           }
        ],
-       "stocks":{
+       "stocks":[
+         {
           "quantity_available":10,
           "reorder_level":10,
           "reorder_quantity":10,
           "warehouse_location":"123 Address Street Los Angeles California"
        }
+      ]
     }
  ]
